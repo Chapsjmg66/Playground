@@ -6,7 +6,7 @@ namespace Playground
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello devel  World!");
+            Console.WriteLine("Hello devel 2 World!");
         }
     }
 }
